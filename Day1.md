@@ -59,6 +59,10 @@ Python has a large and active community of developers, who have contributed many
 
 Overall, Python is a powerful and versatile programming language that is easy to learn and use, making it an excellent choice for beginners and experienced programmers alike.<br><br>
 
-
+Today we did a self-introduction using Python program,<br>
+### Intro.py <br>
+![Intro.py](img/a1.png)
+### Output <br>
+![Output](img/a2.png)
 
 
